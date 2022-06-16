@@ -1,2 +1,1 @@
-# monty
-C - stacks and queues
+## C - stacks and queues
